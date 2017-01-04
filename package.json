@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "nightmare": "^2.9.1",
+    "request": "^2.79.0"
+  },
+  "name": "chomage",
+  "version": "1.0.0",
+  "description": "pour pas oublier",
+  "main": "index.js",
+  "repository": "git@github.com:kigiri/chomage.git",
+  "author": "Clement Denis <le.mikmac@gmail.com>",
+  "license": "MIT"
+}
